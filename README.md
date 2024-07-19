@@ -12,7 +12,7 @@
 </p>
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://iconscout.com/lottie-animation/man-using-cloud-services-8872609" />
+<img align="right" height="300" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhiMHo1dHdsajIxY2dwY2tsZ2NoODltNTc2MDA4M3AzOGhuazM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 <!-- Languages and Tools Section -->
 <!-- Technical Expertise and Tools Section -->
