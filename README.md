@@ -42,6 +42,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/1200px-Garuda-blue-sgs.svg.png" alt="alpine" title="Garuda" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOQIX8bp3r8exseKpWSJHIq_rTPq03UJkHg&s" alt="centos" title="Arch Linux" width="40" height="40"/>
 </p>
+#### Dev Stack
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" alt="android-studio" title="Android Studio" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" title="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/>
+</p>
 
 #### Database Stack
 <p align="left">
