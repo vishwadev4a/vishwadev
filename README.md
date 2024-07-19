@@ -45,7 +45,7 @@
 
 #### Database Stack
 <p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s" alt="sql" title="SQL" width="40" height="40"/>
+  <img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="sql" title="SQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/>
 </p>
 
