@@ -15,7 +15,7 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+<h3 align="left"><font size="+2" face="Verdana">Technical Expertise and Tools:</font></h3>
 
 - I work on DevOps, Microservices, containers, and everything around it.
 - I’m looking to collaborate on **DevOps and Cloud-native Projects**
