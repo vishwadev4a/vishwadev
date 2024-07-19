@@ -42,11 +42,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/1200px-Garuda-blue-sgs.svg.png" alt="alpine" title="Garuda" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOQIX8bp3r8exseKpWSJHIq_rTPq03UJkHg&s" alt="centos" title="Arch Linux" width="40" height="40"/>
 </p>
-Dev Stack
+#### Dev Stack
 <p align="left">
+  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvx7-Wparxr1aKmUd9j2hH59oLWWX3LjPA&s" alt="android-studio" title="Android Studio" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KLTjAdBCoCYUv5tirVg_QIQpsZHTScZYnA&s" alt="figma" title="Figma" width="40" height="40"/>
+  <img src="https://banner2.cleanpng.com/20181205/fu/kisspng-xml-scalable-vector-graphics-image-data-web-feed-jules-thuillier-ampquot-old-remote-app-brains-5c0881bd8bd6c5.2990553315440613735728.jpg" alt="firebase" title="XML" width="40" height="40"/>
   <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63018721094449d9901f5875_cff297d7.png" alt="firebase" title="Firebase" width="40" height="40"/>
 </p>
 
