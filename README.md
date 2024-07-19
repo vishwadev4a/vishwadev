@@ -42,8 +42,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/1200px-Garuda-blue-sgs.svg.png" alt="alpine" title="Garuda" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOQIX8bp3r8exseKpWSJHIq_rTPq03UJkHg&s" alt="centos" title="Arch Linux" width="40" height="40"/>
 </p>
-#### Dev Stack
-<p align="left">
+
+#### **Dev Stack**
+
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvx7-Wparxr1aKmUd9j2hH59oLWWX3LjPA&s" alt="android-studio" title="Android Studio" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/>
