@@ -12,7 +12,7 @@
 </p>
 
 <!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="https://iconscout.com/lottie-animation/man-using-cloud-services-8872609" />
 
 <!-- Languages and Tools Section -->
 <!-- Technical Expertise and Tools Section -->
