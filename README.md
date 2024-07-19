@@ -42,12 +42,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/1200px-Garuda-blue-sgs.svg.png" alt="alpine" title="Garuda" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOQIX8bp3r8exseKpWSJHIq_rTPq03UJkHg&s" alt="centos" title="Arch Linux" width="40" height="40"/>
 </p>
-#### Dev Stack
+Dev Stack
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" alt="android-studio" title="Android Studio" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvx7-Wparxr1aKmUd9j2hH59oLWWX3LjPA&s" alt="android-studio" title="Android Studio" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" title="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/>
+  <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63018721094449d9901f5875_cff297d7.png" alt="firebase" title="Firebase" width="40" height="40"/>
 </p>
 
 #### Database Stack
