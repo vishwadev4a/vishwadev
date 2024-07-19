@@ -18,9 +18,9 @@
 <!-- Technical Expertise and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Technical Expertise and Tools:</font></h3>
 <ul>
-  <li><b>Experienced Software Engineer with 6 months of hands-on experience in development, DevOps, and cybersecurity.</b></li>
-  <li><b>I work on DevOps, Microservices, containers, and everything around it.</b></li>
-  <li><b>I’m looking to collaborate on DevOps and Cloud-native Projects.</b></li>
+  <li><b>Experienced Software Engineer with 6 months of hands-on experience in development, DevOps, and cybersecurity.</b></li><br/>
+  <li><b>I work on DevOps, Microservices, containers, and everything around it.</b></li><br/>
+  <li><b>I’m looking to collaborate on DevOps and Cloud-native Projects.</b></li><br/>
 </ul>
 
 
