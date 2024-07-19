@@ -41,7 +41,7 @@
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="Ubuntu" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/1200px-Garuda-blue-sgs.svg.png" alt="alpine" title="Alpine" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0mcfIwsrXyoMoptj_AbBoHf59I3wkE6P6A&s" alt="centos" title="CentOS" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOQIX8bp3r8exseKpWSJHIq_rTPq03UJkHg&s" alt="centos" title="CentOS" width="40" height="40"/>
 </p>
 
 #### Database Stack
