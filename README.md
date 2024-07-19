@@ -103,7 +103,7 @@
 
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[vishwadevsharma1@gmail.com](mailto:vishwadevsharma1@gmail.com)**
-- ⚡ Feel free to connect with me on [Linked In](https://www.linkedin.com/in/vishwadev-sharma-aa091923b/)**
+- ⚡ Feel free to connect with me on [Linked In](https://www.linkedin.com/in/vishwadev-sharma-aa091923b/)
 
 
 
