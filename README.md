@@ -40,7 +40,7 @@
 <p align="left">
   <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="Ubuntu" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="Alpine" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/1200px-Garuda-blue-sgs.svg.png" alt="alpine" title="Alpine" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" title="CentOS" width="40" height="40"/>
 </p>
 
