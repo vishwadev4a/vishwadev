@@ -31,7 +31,7 @@
 
 #### Scripting Languages
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/bash/bash-icon.svg" alt="bash" title="Bash" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="bash" title="Bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="Python" width="40" height="40"/>
 </p>
 
