@@ -21,7 +21,7 @@
 
 
 - I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- I’m looking to collaborate on **DevOps and Cloud-native Projects**
 
 
 
