@@ -16,7 +16,6 @@
 
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Technical Expertise and Tools:</font></h3>
-- Experienced Software Engineer with 6 months of hands-on experience in development and DevOps
 - I work on DevOps, Microservices, containers, and everything around it.
 - I’m looking to collaborate on **DevOps and Cloud-native Projects**
 
