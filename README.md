@@ -46,7 +46,7 @@ Dev Stack
 <p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvx7-Wparxr1aKmUd9j2hH59oLWWX3LjPA&s" alt="android-studio" title="Android Studio" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" title="Figma" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KLTjAdBCoCYUv5tirVg_QIQpsZHTScZYnA&s" alt="figma" title="Figma" width="40" height="40"/>
   <img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63018721094449d9901f5875_cff297d7.png" alt="firebase" title="Firebase" width="40" height="40"/>
 </p>
 
