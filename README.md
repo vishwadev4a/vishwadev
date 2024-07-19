@@ -7,7 +7,7 @@
 <p align="left">
   <a href="mailto:vishwadevsharma1@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="Gmail" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
-    Drop a Mail!
+     Drop a Mail!
   </a>
 </p>
 
