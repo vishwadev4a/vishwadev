@@ -44,8 +44,7 @@
 </p>
 
 #### **Dev Stack**
-
-  
+<p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxvx7-Wparxr1aKmUd9j2hH59oLWWX3LjPA&s" alt="android-studio" title="Android Studio" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KLTjAdBCoCYUv5tirVg_QIQpsZHTScZYnA&s" alt="figma" title="Figma" width="40" height="40"/>
