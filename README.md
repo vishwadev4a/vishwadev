@@ -3,13 +3,14 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/vishwadev-sharma-aa091923b/" target="_blank" rel="noreferrer">Vishwadev</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps with roots in Android Development. Feel free to reach out for any internship or full-time job opportunities.</font></h3>
 
 <!-- Schedule a 1-on-1 meet section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 meeting:</font></h3>
+<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Meeting:</font></h3>
 <p align="left">
-  <a href="mailto:vishwadevsharma1@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="Gmail" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
-     Drop a Mail!
+  <a href="mailto:vishwadevsharma1@gmail.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/512px-Gmail_Icon.png" alt="Gmail" style="width:20px; height:20px; vertical-align:middle; margin-right:10px;">
+    <span style="position:relative; bottom:5px;"> Drop a Mail!</span>
   </a>
 </p>
+
 
 
 <!-- GIF -->
